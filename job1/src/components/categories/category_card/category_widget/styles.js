@@ -17,4 +17,10 @@ color: black;
 font-size: 15px;
 font-family: 'Playpen Sans';
 
+@media (max-width:768px) {
+    display: block;
+    img{
+        display: none;
+    }
+}
 `
