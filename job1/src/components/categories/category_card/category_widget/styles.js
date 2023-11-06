@@ -23,4 +23,8 @@ font-family: 'Playpen Sans';
         display: none;
     }
 }
+@media (max-width:993px){
+   display: flex;
+   flex-wrap: wrap;
+}
 `
