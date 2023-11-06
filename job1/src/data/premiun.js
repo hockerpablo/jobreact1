@@ -28,7 +28,7 @@ export const premiun = [
     name: "Moras",
     img: "https://green-life.s3.us-west-2.amazonaws.com/products/frutas/moras/product-sm.png",
     category: "premiun",
-    desc: "grndes y jugosos traidos desde Ecuador",
+    desc: "grndes y jugosos mad in Cordoba",
     price: 2500,
   },
   {
@@ -36,7 +36,7 @@ export const premiun = [
     name: "Acelga",
     img: "https://green-life.s3.us-west-2.amazonaws.com/products/acelga/acelga-sm.png",
     category: "premiun",
-    desc: "dulce sabor del litoral",
+    desc: "dulce sabor del litoral Argentino",
     price: 1200,
   },
   {
@@ -44,7 +44,7 @@ export const premiun = [
     name: "Arvejas",
     img: "https://green-life.s3.us-west-2.amazonaws.com/products/arvejas/arvejas-sm.png",
     category: "premiun",
-    desc: "grandes y deliciosas traidas desde los bosques Brasileros",
+    desc: "Las mas verdes y grandes traidas desde Brasil",
     price: 1800,
   },
   {
@@ -52,7 +52,7 @@ export const premiun = [
     name: "Brocoli",
     img: "https://green-life.s3.us-west-2.amazonaws.com/products/brocoli/brocoli-sm.png",
     category: "premiun",
-    desc: "jugosas, maduras traidas desde Colombia",
+    desc: "especiales para hacer salsas o ensaladas",
     price: 3500,
   },
   {
@@ -60,7 +60,7 @@ export const premiun = [
     name: "Chauchas",
     img: "https://green-life.s3.us-west-2.amazonaws.com/products/chauchas/chauchas-sm.png",
     category: "premiun",
-    desc: "grndes y jugosos traidos desde Ecuador",
+    desc: "las mejores para una buena ensalada",
     price: 2000,
   },
 ];
